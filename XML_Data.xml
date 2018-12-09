@@ -3,9 +3,13 @@
         <id>1</id>
         <name>Google Map</name>
         <version>1.1</version>
+    </app>
+    <app>
         <id>2</id>
         <name>Chrome</name>
         <version>2.1</version>
+    </app>
+    <app>
         <id>3</id>
         <name>Play Store</name>
         <version>2.7</version>
